@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Gabriel F. e sou Desenvolvedor Front-End</h2>
+<h2 align="left">Oi, meu nome é Gabriel F. e sou Desenvolvedor Front-End.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/87/63/91/8763914ecf66861ae4358226a68e76f3.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/ab/87/19/ab8719fc787a76285d4f9563a7331360.gif"  />
 
 ###
 
@@ -37,11 +37,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" />
 
 ###
