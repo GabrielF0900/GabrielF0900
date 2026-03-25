@@ -1,78 +1,71 @@
-<h2 align="left">Olá, eu sou o Gabriel Falcão. Desenvolvedor Full-Stack & Arquiteto de Soluções AWS.</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/main/portfolio-banner.png" width="100%" alt="Gabriel Falcao Portfolio Banner" />
+</div>
 
-###
+# Olá, eu sou o Gabriel Falcão. Arquiteto de Soluções AWS & Cloud-Native Developer. 🚀
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielF0900&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielF0900&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLF Badge" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/images/36998c5e57eb083202f091b2783fdeb1/tenor.gif?itemid=4807491"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/white" height="30" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/beekeeperstudio/white" height="30" alt="beekeeper logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="30" alt="insomnia logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</div>
-
-###
 
 ---
 
-<h3 align="center">📊 GitHub Metrics & Activity</h3>
+### 👨‍💻 Sobre Mim
+
+- 🎓 Graduando em **Sistemas de Informação** (5º Semestre) na Uninassau Pituba.
+- ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** formado pela **Escola da Nuvem**.
+- 🛠️ Desenvolvedor Full-Stack com foco em **arquiteturas resilientes**, sistemas **Serverless** e eficiência operacional.
+- 🚀 Atualmente desenvolvendo o **CityShield** (Segurança para Smart Cities) e o **Neukox**.
+- 📍 Baseado em Madre de Deus - BA (Disponível para oportunidades remotas ou híbridas em Salvador).
+
+---
+
+### 🛠️ Minha Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws" height="25" /> **AWS** (Lambda, S3, EC2, DynamoDB, RDS) |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" height="25" /> **Node.js, NestJS, Express, Prisma ORM** |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="25" /> **React.js, TypeScript, Tailwind CSS** |
+| **Databases & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,docker" height="25" /> **PostgreSQL, Docker** |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=vscode" height="25" /> <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="25" /> <img src="https://cdn.simpleicons.org/beekeeperstudio/white" height="25" /> **VS Code, Insomnia, Beekeeper Studio** |
+
+---
+
+### 📊 GitHub Dashboard
 
 <div align="center">
-  <a href="https://github.com/GabrielF0900">
-    <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" width="80%" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielF0900&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielF0900&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="Gabriel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielF0900&layout=compact&langs_count=8&theme=tokyonight" height="175" alt="Gabriel's Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielF0900&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/GabrielF0900">
+    <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" width="85%" />
+  </a>
 </div>
 
-###
+---
+
+### 📫 Conecte-se Comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabrielfalcaodev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:falcaocruz.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://gabrielfalcaodacruz.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br clear="both">
-
-
-###
