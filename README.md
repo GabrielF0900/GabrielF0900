@@ -18,10 +18,10 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Sistemas de Informação** (5º Semestre) na Uninassau Pituba.
-- ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** formado pela **Escola da Nuvem**.
-- 🏆 Concluí com sucesso o **CityShield**, um projeto de Segurança para Smart Cities desenvolvido como TCC para a Escola da Nuvem.
-- 🛠️ Desenvolvedor Full-Stack focado em **arquiteturas resilientes**, sistemas **Serverless** e eficiência operacional.
-- 📍 Disponibilidade para oportunidades presenciais e híbridas em **Salvador - BA** ou **100% Online (Remoto)**.
+- ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** formado pela Escola da Nuvem.
+- 🏆 **CityShield:** TCC concluído com sucesso para a Escola da Nuvem (Foco em Segurança para Smart Cities).
+- 🛠️ Desenvolvedor Full-Stack focado em **arquiteturas resilientes** e sistemas **Serverless**.
+- 📍 Disponibilidade para oportunidades presenciais/híbridas em **Salvador - BA** ou **100% Home Office**.
 
 ---
 
@@ -32,12 +32,11 @@
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws" height="25" /> **AWS** (Lambda, S3, EC2, DynamoDB, RDS) |
 | **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" height="25" /> **Node.js, NestJS, Express, Prisma ORM** |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="25" /> **React.js, TypeScript, Tailwind CSS** |
-| **Databases & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,docker" height="25" /> **PostgreSQL, Docker** |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=vscode" height="25" /> <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="25" /> <img src="https://cdn.simpleicons.org/beekeeperstudio/white" height="25" /> **VS Code, Insomnia, Beekeeper Studio** |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=postgres,docker,vscode" height="25" /> <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="25" /> <img src="https://cdn.simpleicons.org/beekeeperstudio/white" height="25" /> **Docker, Postgre, Insomnia, Beekeeper** |
 
 ---
 
-### 📊 GitHub Dashboard (Métricas)
+### 📊 GitHub Dashboard
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielF0900&theme=dracula&no-frame=false&margin-w=4" alt="GitHub Trophies" />
@@ -51,9 +50,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/GabrielF0900/GabrielF0900">
-    <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" width="85%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -71,5 +68,3 @@
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
-<br clear="both">
