@@ -49,10 +49,25 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabrielfalcaodev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" />
+---
+
+<h3 align="center">📊 GitHub Metrics & Activity</h3>
+
+<div align="center">
+  <a href="https://github.com/GabrielF0900">
+    <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" width="80%" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielF0900&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielF0900&layout=compact&langs_count=8&theme=tokyonight" height="175" alt="Gabriel's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielF0900&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ###
