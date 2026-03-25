@@ -5,10 +5,10 @@
 # Olá, eu sou o Gabriel Falcão. Arquiteto de Soluções AWS & Cloud-Native Developer. 🚀
 
 <div align="center">
-  <a href="https://www.credly.com/users/gabrielfalcaodacruz" target="_blank">
+  <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
   </a>
-  <a href="https://www.credly.com/users/gabrielfalcaodacruz" target="_blank">
+  <a href="https://www.credly.com/badges/8567f1a6-90af-44cb-b9bb-3a8c377c8295/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLF Badge" />
   </a>
 </div>
@@ -36,10 +36,10 @@
 
 ---
 
-### � Meus Melhores Projetos
+### 🚀 Meus Melhores Projetos
 
 <div align="center">
-  
+
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🎫 Sistema de Gerenciamento de Chamados** | Plataforma completa de gestão de tickets e chamados com autenticação, dashboard e relatórios | NestJS, React, TypeScript, PostgreSQL, Docker | [Acessar →](https://github.com/GabrielF0900/Sistema_De_Gerenciamento_De_Chamados) |
@@ -51,7 +51,7 @@
 
 ---
 
-### �📊 GitHub Dashboard
+### 📊 GitHub Dashboard
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Trophies-🏆%20Featured-success?style=for-the-badge" alt="GitHub Trophies" />
