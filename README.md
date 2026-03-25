@@ -5,8 +5,12 @@
 # Olá, eu sou o Gabriel Falcão. Arquiteto de Soluções AWS & Cloud-Native Developer. 🚀
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLF Badge" />
+  <a href="https://www.credly.com/users/gabrielfalcaodacruz" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
+  </a>
+  <a href="https://www.credly.com/users/gabrielfalcaodacruz" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLF Badge" />
+  </a>
 </div>
 
 ---
@@ -47,7 +51,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/GabrielF0900">
+  <a href="https://github.com/GabrielF0900/GabrielF0900">
     <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/output/snake.svg" alt="Snake animation" width="85%" />
   </a>
 </div>
