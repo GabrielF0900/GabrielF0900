@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielF0900/GabrielF0900/main/portfolio-banner.png" width="100%" alt="Gabriel Falcao Portfolio Banner" />
+  <img src="https://img.shields.io/badge/Status-Cloud--Native%20Developer%20&%20Arquiteto-orange?style=for-the-badge&logo=rocket" alt="Portfolio Status" />
 </div>
 
 # Olá, eu sou o Gabriel Falcão. Arquiteto de Soluções AWS & Cloud-Native Developer. 🚀
@@ -15,9 +15,9 @@
 
 - 🎓 Graduando em **Sistemas de Informação** (5º Semestre) na Uninassau Pituba.
 - ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** formado pela **Escola da Nuvem**.
-- 🛠️ Desenvolvedor Full-Stack com foco em **arquiteturas resilientes**, sistemas **Serverless** e eficiência operacional.
-- 🚀 Atualmente desenvolvendo o **CityShield** (Segurança para Smart Cities) e o **Neukox**.
-- 📍 Baseado em Madre de Deus - BA (Disponível para oportunidades remotas ou híbridas em Salvador).
+- 🏆 Concluí com sucesso o **CityShield**, um projeto de Segurança para Smart Cities desenvolvido como TCC para a Escola da Nuvem.
+- 🛠️ Desenvolvedor Full-Stack focado em **arquiteturas resilientes**, sistemas **Serverless** e eficiência operacional.
+- 📍 Disponibilidade para oportunidades presenciais e híbridas em **Salvador - BA** ou **100% Online (Remoto)**.
 
 ---
 
@@ -33,15 +33,15 @@
 
 ---
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Dashboard (Métricas)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielF0900&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielF0900&theme=dracula&no-frame=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielF0900&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="Gabriel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielF0900&layout=compact&langs_count=8&theme=tokyonight" height="175" alt="Gabriel's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielF0900&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="175" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielF0900&layout=compact&langs_count=8&theme=dracula" height="175" alt="Gabriel's Top Languages" />
 </div>
 
 <br/>
