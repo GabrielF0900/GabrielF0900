@@ -88,7 +88,7 @@
   <a href="mailto:falcaocruz.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://gabrielfalcaodacruz.tech" target="_blank">
+  <a href="https://www.gabrielfalcaodacruz.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
