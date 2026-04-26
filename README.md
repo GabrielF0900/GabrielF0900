@@ -31,10 +31,10 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Meu t
 
 | Domínio | Tecnologias |
 | :--- | :--- |
-| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws,lambda" height="30" /><img src="https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazon-s3&logoColor=white" height="22" /><img src="https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" /><img src="https://img.shields.io/badge/SQS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" /><img src="https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" /><img src="https://img.shields.io/badge/VPC-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" /> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,jwt,prisma,docker" height="30" /> |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="30" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="30" /> |
+| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws" height="28" /> <img src="https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white" height="28" /><img src="https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white" height="28" /><img src="https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" /><img src="https://img.shields.io/badge/SQS-D10000?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" /><img src="https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" /><img src="https://img.shields.io/badge/VPC-D10000?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,prisma,docker" height="28" /> <img src="https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="28" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="28" /> |
 
 ---
 
@@ -46,7 +46,8 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Meu t
 | :--- | :--- | :--- | :--- |
 | **🛡️ CityShield** | Arquitetura de segurança Smart City com processamento de dados orientado a eventos. | AWS Lambda, SQS, S3 | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
 | **☁️ Nebula-Archive** | Gestão de ativos via CDN para entrega global com latência mínima e segurança IAM. | CloudFront, S3, IAM | [Ver Código →](https://github.com/GabrielF0900/Nebula-Archive) |
-| **🎫 Ticket Manager** | Sistema de chamados escalável focado em desacoplamento e persistência robusta. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/GabrielF0900/Sistema_De_Gerenciamento_De_Chamados) |
+| **🎓 FocoTCC** | Plataforma para gerenciamento e submissão de TCCs, facilitando a organização acadêmica. | NestJS, React, Postgres | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_TCC) |
+| **🎫 Ticket Manager** | Sistema de chamados escalável focado em desacoplamento e persistência robusta. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados) |
 
 </div>
 
