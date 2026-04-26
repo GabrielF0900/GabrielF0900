@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Gabriel Falcão. 🚀
 
-### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Back-end JS/TS
+### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Full-Stack JS/TS
 
 Construo aplicações que escalam com custo otimizado e segurança nativa. Meu trabalho é garantir que o desenvolvimento de software e a infraestrutura em nuvem andem juntos, utilizando o **AWS Well-Architected Framework** como guia.
 
