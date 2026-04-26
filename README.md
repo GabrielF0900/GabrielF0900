@@ -31,10 +31,10 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Meu t
 
 | Domínio | Tecnologias |
 | :--- | :--- |
-| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws" height="25" /> Lambda, S3, CloudFront, Step Functions, SQS, IAM, VPC |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="25" /> Node.js, NestJS, TypeScript, Prisma ORM, Docker |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,tailwind" height="25" /> React.js, Tailwind CSS |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="25" /> PostgreSQL |
+| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws,lambda" height="25" /> <img src="https://cdn.simpleicons.org/amazons3/white" height="25" /> <img src="https://cdn.simpleicons.org/amazoncloudfront/white" height="25" /> <img src="https://cdn.simpleicons.org/amazonsqs/white" height="25" /> <img src="https://cdn.simpleicons.org/amazoniam/white" height="25" /> <img src="https://cdn.simpleicons.org/amazonvpc/white" height="25" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="25" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="25" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="25" /> |
 
 ---
 
