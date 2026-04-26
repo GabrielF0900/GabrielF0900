@@ -31,10 +31,10 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Meu t
 
 | Domínio | Tecnologias |
 | :--- | :--- |
-| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws,lambda" height="25" /> <img src="https://cdn.simpleicons.org/amazons3/white" height="25" /> <img src="https://cdn.simpleicons.org/amazoncloudfront/white" height="25" /> <img src="https://cdn.simpleicons.org/amazonsqs/white" height="25" /> <img src="https://cdn.simpleicons.org/amazoniam/white" height="25" /> <img src="https://cdn.simpleicons.org/amazonvpc/white" height="25" /> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="25" /> |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="25" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="25" /> |
+| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws" height="30" /> <img src="https://cdn.simpleicons.org/amazons3/D10000" height="30" alt="S3" /> <img src="https://cdn.simpleicons.org/amazoncloudfront/D10000" height="30" alt="CloudFront" /> <img src="https://cdn.simpleicons.org/amazonsqs/D10000" height="30" alt="SQS" /> <img src="https://cdn.simpleicons.org/amazoniam/D10000" height="30" alt="IAM" /> <img src="https://cdn.simpleicons.org/amazonvpc/D10000" height="30" alt="VPC" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="30" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="30" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="30" /> |
 
 ---
 
