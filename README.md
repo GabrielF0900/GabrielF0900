@@ -31,10 +31,10 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Meu t
 
 | Domínio | Tecnologias |
 | :--- | :--- |
-| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws" height="30" /> <img src="https://cdn.simpleicons.org/amazons3/D10000" height="30" alt="S3" /> <img src="https://cdn.simpleicons.org/amazoncloudfront/D10000" height="30" alt="CloudFront" /> <img src="https://cdn.simpleicons.org/amazonsqs/D10000" height="30" alt="SQS" /> <img src="https://cdn.simpleicons.org/amazoniam/D10000" height="30" alt="IAM" /> <img src="https://cdn.simpleicons.org/amazonvpc/D10000" height="30" alt="VPC" /> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="30" /> |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="30" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="30" /> |
+| **Cloud (AWS)** | <img src="https://skillicons.dev/icons?i=aws,lambda" height="35" /> <img src="https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazon-s3&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/SQS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/VPC-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="35" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" height="35" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="35" /> |
 
 ---
 
