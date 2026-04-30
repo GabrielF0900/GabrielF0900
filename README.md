@@ -6,16 +6,16 @@
 
 ### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Full-Stack JS/TS
 
-Construo aplicações que escalam com custo otimizado e segurança nativa. Garanto que o desenvolvimento de software e a infraestrutura em nuvem andem juntos, utilizando o **AWS Well-Architected Framework** como bússola técnica.
+Construo aplicações que escalam com custo otimizado e segurança nativa. Garanto que o desenvolvimento de software e a infraestrutura em nuvem caminhem juntos, utilizando o **AWS Well-Architected Framework** como bússola técnica para cada entrega.
 
 ---
 
 ### 📈 Impacto & Métricas Reais
 
-- **Agilidade Técnica:** Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de absorção e execução técnica sob demanda.
-- **Automação e IaC:** Implementação de infraestrutura replicável via **AWS CloudFormation**, reduzindo erros manuais e garantindo governança.
-- **Eficiência de Custo:** Desenvolvimento de arquiteturas **Serverless (Pay-per-use)**, otimizando o faturamento Cloud em projetos de portfólio.
-- **Integridade Analítica:** Utilizo meu **hiperfoco (neurodiversidade)** para identificar vulnerabilidades e gargalos de performance através de práticas de **Shift-Left**.
+- **Agilidade Técnica:** Conquistei as certificações **CLF-C02** e **SAA-C03** em um intervalo de apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
+- **Automação e IaC:** Implementação de infraestrutura como código via **AWS CloudFormation**, garantindo ambientes resilientes e governança técnica.
+- **Eficiência de Custo:** Desenvolvimento de arquiteturas **Serverless (Pay-per-use)**, focando na redução drástica de custos operacionais.
+- **Integridade Analítica:** Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades e gargalos de performance em estágios iniciais de desenvolvimento.
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
@@ -30,12 +30,12 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
 
 ### 🛠️ Core Stack Tecnológica
 
-| Domínio | Tecnologias |
+| Domínio | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Cloud & IaC** | <img src="https://skillicons.dev/icons?i=aws" height="28" />&nbsp;&nbsp;**CloudFormation** • **Lambda** • **S3** • **CloudFront** • **VPC** • **CloudWatch** • **IAM** |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="28" />&nbsp;&nbsp;**Express** • **Python** • **JWT Auth** |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" height="28" />&nbsp;&nbsp;**HTML5** • **CSS3** |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="28" />&nbsp;&nbsp;**PostgreSQL** |
+| **Cloud & IaC** | <img src="https://skillicons.dev/icons?i=aws" height="30" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /><br>**Serviços:** Lambda, S3, CloudFront, VPC, CloudWatch, IAM, SQS |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="30" /><br>**Plus:** Express, Python, JWT Auth, Rest APIs |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" height="30" /><br>**Base:** HTML5, CSS3, Javascript |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="30" /><br>**Engine:** PostgreSQL |
 
 ---
 
@@ -60,9 +60,17 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielF0900&layout=compact&langs_count=8&theme=blood" height="175" alt="Langs" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielF0900&theme=blood&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
 ---
 
 ### 📫 Vamos construir algo resiliente?
+
+Se você busca um desenvolvedor com mentalidade de arquiteto para escalar seu produto com segurança e baixo custo, vamos conversar.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabrielfalcaodev/" target="_blank">
@@ -74,4 +82,11 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
   <a href="https://www.gabrielfalcaodacruz.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
