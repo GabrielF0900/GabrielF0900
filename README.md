@@ -12,10 +12,10 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
 
 ### 📈 Impacto & Métricas Reais
 
-- **Agilidade Técnica:** Conquistei as certificações **CLF-C02** e **SAA-C03** em um intervalo de apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
-- **Automação e IaC:** Implementação de infraestrutura como código via **AWS CloudFormation**, garantindo ambientes resilientes e governança técnica.
+- **Agilidade Técnica:** Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
+- **Automação e IaC:** Implementação de infraestrutura replicável via **AWS CloudFormation**, garantindo ambientes resilientes e governança técnica.
 - **Eficiência de Custo:** Desenvolvimento de arquiteturas **Serverless (Pay-per-use)**, focando na redução drástica de custos operacionais.
-- **Integridade Analítica:** Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades e gargalos de performance em estágios iniciais de desenvolvimento.
+- **Integridade Analítica:** Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades e gargalos de performance (Shift-Left).
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
@@ -28,14 +28,14 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
 
 ---
 
-### 🛠️ Core Stack Tecnológica
+### 🛠️ Core Stack Tecnológica (Cloud & Software Engineering)
 
-| Domínio | Tecnologias & Ferramentas |
+| Domínio | Tecnologias (Padrão Red Architecture) |
 | :--- | :--- |
-| **Cloud & IaC** | <img src="https://skillicons.dev/icons?i=aws" height="30" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" /><br>**Serviços:** Lambda, S3, CloudFront, VPC, CloudWatch, IAM, SQS |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,prisma,docker" height="30" /><br>**Plus:** Express, Python, JWT Auth, Rest APIs |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" height="30" /><br>**Base:** HTML5, CSS3, Javascript |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="30" /><br>**Engine:** PostgreSQL |
+| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-D10000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-D10000?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-D10000?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-D10000?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-D10000?style=for-the-badge&logo=python&logoColor=white) |
+| **Front-end** | ![React](https://img.shields.io/badge/React-D10000?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D10000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-D10000?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-D10000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-D10000?style=for-the-badge&logo=css3&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
 
