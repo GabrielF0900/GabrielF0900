@@ -15,7 +15,7 @@ Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar pro
 - **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
 - **Automação e IaC**: Provisionamento de infraestrutura replicável via **AWS CloudFormation** e **CDK**, garantindo governança e ambientes resilientes.
 - **Eficiência Operacional**: Redução de custos através de arquiteturas **Serverless** e otimização de latência global via **CloudFront** (redução de até 50% em latência).
-- **Integridade Analítica**: Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades de segurança e gargalos de performance (Shift-Left).
+- **Integridade Analítica**: Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades de segurança e gargalos de performance.
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
