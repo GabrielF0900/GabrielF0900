@@ -6,16 +6,16 @@
 
 ### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Full-Stack JS/TS
 
-Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar processos manuais de engenharia em fluxos digitais eficientes através de automações **Cloud-Native**. Utilizo o **AWS Well-Architected Framework** como bússola técnica para garantir escalabilidade e segurança.
+Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar processos manuais de engenharia em fluxos digitais eficientes através de automações **Cloud-Native**[cite: 1]. Utilizo o **AWS Well-Architected Framework** como bússola técnica para garantir escalabilidade, segurança e eficiência de custos[cite: 1].
 
 ---
 
 ### 📈 Impacto & Métricas Reais
 
-- **Agilidade Técnica:** Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
-- **Automação e IaC:** Provisionamento de infraestrutura replicável via **CloudFormation** e **AWS CDK**, garantindo governança e resiliência[cite: 1].
-- **Eficiência Operacional:** Redução de custos através de arquiteturas **Serverless (Pay-per-use)** e otimização de latência global via **CloudFront**[cite: 1].
-- **Integridade Analítica:** Aplico meu **hiperfoco (neurodiversidade)** para garantir a integridade técnica e segurança em sistemas complexos[cite: 1].
+- **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda[cite: 1].
+- **Automação e IaC**: Provisionamento de infraestrutura replicável via **AWS CloudFormation** e **CDK**, garantindo governança e ambientes resilientes[cite: 1].
+- **Eficiência Operacional**: Redução de custos através de arquiteturas **Serverless** e otimização de latência global via **CloudFront** (redução de até 50% em latência)[cite: 1].
+- **Integridade Analítica**: Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades de segurança e gargalos de performance (Shift-Left)[cite: 1].
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
@@ -28,15 +28,14 @@ Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar pro
 
 ---
 
-### 🛠️ Core Stack Tecnológica (Mapeamento de Currículo)
+### 🛠️ Core Stack Tecnológica (Red Architecture)
 
-| Domínio | Tecnologias (Padrão Red Architecture) |
+| Domínio | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CDK](https://img.shields.io/badge/AWS_CDK-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![StepFunctions](https://img.shields.io/badge/Step_Functions-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-D10000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-D10000?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-D10000?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-D10000?style=for-the-badge&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-D10000?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) |
+| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CDK](https://img.shields.io/badge/AWS_CDK-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![StepFunctions](https://img.shields.io/badge/Step_Functions-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-D10000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-D10000?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-D10000?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-D10000?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-D10000?style=for-the-badge&logo=prisma&logoColor=white) |
 | **Front-end** | ![React](https://img.shields.io/badge/React-D10000?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D10000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-D10000?style=for-the-badge&logo=vite&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-D10000?style=for-the-badge&logo=jest&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Methodologies** | ![Scrum](https://img.shields.io/badge/Scrum-D10000?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-D10000?style=for-the-badge&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -44,12 +43,12 @@ Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar pro
 
 <div align="center">
 
-| Projeto | Solução & Impacto | Stack Principal |
-| :--- | :--- | :--- |
-| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo via Kinesis/Rekognition[cite: 1]. | Rekognition, Kinesis, Lambda |
-| **☁️ NovaEdge** | Entrega global de conteúdo reduzindo latência em até 50%[cite: 1]. | CloudFront, Step Functions |
-| **🎟️ Ticket Manager** | Gerenciamento escalável com chat via WebSockets (30% + agilidade)[cite: 1]. | NestJS, Prisma, Docker |
-| **🎓 FocoTCC** | Arquitetura containerizada com 100% de paridade entre ambientes[cite: 1]. | NestJS, React, Postgres |
+| Projeto | Solução & Impacto | Stack Principal | Link |
+| :--- | :--- | :--- | :--- |
+| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo via Kinesis/Rekognition[cite: 1]. | Lambda, Kinesis, S3 | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
+| **☁️ NovaEdge** | Entrega global de conteúdo reduzindo a latência global em até 50%[cite: 1]. | CloudFront, Step Functions | [Ver Código →](https://github.com/GabrielF0900/NovaEdge) |
+| **🎟️ Ticket Manager** | Gerenciamento de chamados escalável com WebSockets e APIs robustas[cite: 1]. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados) |
+| **🎓 FocoTCC** | Arquitetura containerizada com 100% de paridade entre ambientes[cite: 1]. | NestJS, React, Postgres | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_TCC) |
 
 </div>
 
