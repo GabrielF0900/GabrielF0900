@@ -6,16 +6,16 @@
 
 ### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Full-Stack JS/TS
 
-Construo aplicações que escalam com custo otimizado e segurança nativa. Garanto que o desenvolvimento de software e a infraestrutura em nuvem caminhem juntos, utilizando o **AWS Well-Architected Framework** como bússola técnica para cada entrega.
+Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar processos manuais de engenharia em fluxos digitais eficientes através de automações **Cloud-Native**. Utilizo o **AWS Well-Architected Framework** como bússola técnica para garantir escalabilidade e segurança.
 
 ---
 
 ### 📈 Impacto & Métricas Reais
 
 - **Agilidade Técnica:** Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
-- **Automação e IaC:** Implementação de infraestrutura replicável via **AWS CloudFormation**, garantindo ambientes resilientes e governança técnica.
-- **Eficiência de Custo:** Desenvolvimento de arquiteturas **Serverless (Pay-per-use)**, focando na redução drástica de custos operacionais.
-- **Integridade Analítica:** Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades e gargalos de performance (Shift-Left).
+- **Automação e IaC:** Provisionamento de infraestrutura replicável via **CloudFormation** e **AWS CDK**, garantindo governança e resiliência[cite: 1].
+- **Eficiência Operacional:** Redução de custos através de arquiteturas **Serverless (Pay-per-use)** e otimização de latência global via **CloudFront**[cite: 1].
+- **Integridade Analítica:** Aplico meu **hiperfoco (neurodiversidade)** para garantir a integridade técnica e segurança em sistemas complexos[cite: 1].
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
@@ -28,14 +28,15 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
 
 ---
 
-### 🛠️ Core Stack Tecnológica (Cloud & Software Engineering)
+### 🛠️ Core Stack Tecnológica (Mapeamento de Currículo)
 
 | Domínio | Tecnologias (Padrão Red Architecture) |
 | :--- | :--- |
-| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-D10000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-D10000?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-D10000?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-D10000?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-D10000?style=for-the-badge&logo=python&logoColor=white) |
-| **Front-end** | ![React](https://img.shields.io/badge/React-D10000?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D10000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-D10000?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-D10000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-D10000?style=for-the-badge&logo=css3&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CDK](https://img.shields.io/badge/AWS_CDK-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![StepFunctions](https://img.shields.io/badge/Step_Functions-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-D10000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-D10000?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-D10000?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-D10000?style=for-the-badge&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-D10000?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) |
+| **Front-end** | ![React](https://img.shields.io/badge/React-D10000?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D10000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-D10000?style=for-the-badge&logo=vite&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-D10000?style=for-the-badge&logo=jest&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Methodologies** | ![Scrum](https://img.shields.io/badge/Scrum-D10000?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-D10000?style=for-the-badge&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -43,11 +44,12 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
 
 <div align="center">
 
-| Projeto | Impacto & Solução | Stack Principal | Link |
-| :--- | :--- | :--- | :--- |
-| **🛡️ CityShield** | Segurança Smart City com arquitetura orientada a eventos. | Lambda, SQS, S3 | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
-| **☁️ Nebula-Archive** | Gestão de ativos via CDN com baixa latência e segurança IAM. | CloudFront, S3, IaC | [Ver Código →](https://github.com/GabrielF0900/Nebula-Archive) |
-| **🎫 Ticket Manager** | Sistema escalável focado em desacoplamento e persistência. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados) |
+| Projeto | Solução & Impacto | Stack Principal |
+| :--- | :--- | :--- |
+| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo via Kinesis/Rekognition[cite: 1]. | Rekognition, Kinesis, Lambda |
+| **☁️ NovaEdge** | Entrega global de conteúdo reduzindo latência em até 50%[cite: 1]. | CloudFront, Step Functions |
+| **🎟️ Ticket Manager** | Gerenciamento escalável com chat via WebSockets (30% + agilidade)[cite: 1]. | NestJS, Prisma, Docker |
+| **🎓 FocoTCC** | Arquitetura containerizada com 100% de paridade entre ambientes[cite: 1]. | NestJS, React, Postgres |
 
 </div>
 
@@ -70,7 +72,7 @@ Construo aplicações que escalam com custo otimizado e segurança nativa. Garan
 
 ### 📫 Vamos construir algo resiliente?
 
-Se você busca um desenvolvedor com mentalidade de arquiteto para escalar seu produto com segurança e baixo custo, vamos conversar.
+Se você busca um desenvolvedor com mentalidade de arquiteto para escalar seu produto com segurança e baixo custo, vamos conversar[cite: 1].
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabrielfalcaodev/" target="_blank">
