@@ -6,16 +6,16 @@
 
 ### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Full-Stack JS/TS
 
-Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar processos manuais de engenharia em fluxos digitais eficientes através de automações **Cloud-Native**[cite: 1]. Utilizo o **AWS Well-Architected Framework** como bússola técnica para garantir escalabilidade, segurança e eficiência de custos[cite: 1].
+Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar processos manuais de engenharia em fluxos digitais eficientes através de automações **Cloud-Native**. Utilizo o **AWS Well-Architected Framework** como bússola técnica para garantir escalabilidade, segurança e eficiência de custos.
 
 ---
 
 ### 📈 Impacto & Métricas Reais
 
-- **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda[cite: 1].
-- **Automação e IaC**: Provisionamento de infraestrutura replicável via **AWS CloudFormation** e **CDK**, garantindo governança e ambientes resilientes[cite: 1].
-- **Eficiência Operacional**: Redução de custos através de arquiteturas **Serverless** e otimização de latência global via **CloudFront** (redução de até 50% em latência)[cite: 1].
-- **Integridade Analítica**: Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades de segurança e gargalos de performance (Shift-Left)[cite: 1].
+- **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
+- **Automação e IaC**: Provisionamento de infraestrutura replicável via **AWS CloudFormation** e **CDK**, garantindo governança e ambientes resilientes.
+- **Eficiência Operacional**: Redução de custos através de arquiteturas **Serverless** e otimização de latência global via **CloudFront** (redução de até 50% em latência).
+- **Integridade Analítica**: Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades de segurança e gargalos de performance (Shift-Left).
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
@@ -45,10 +45,10 @@ Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar pro
 
 | Projeto | Solução & Impacto | Stack Principal | Link |
 | :--- | :--- | :--- | :--- |
-| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo via Kinesis/Rekognition[cite: 1]. | Lambda, Kinesis, S3 | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
-| **☁️ NovaEdge** | Entrega global de conteúdo reduzindo a latência global em até 50%[cite: 1]. | CloudFront, Step Functions | [Ver Código →](https://github.com/GabrielF0900/NovaEdge) |
-| **🎟️ Ticket Manager** | Gerenciamento de chamados escalável com WebSockets e APIs robustas[cite: 1]. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados) |
-| **🎓 FocoTCC** | Arquitetura containerizada com 100% de paridade entre ambientes[cite: 1]. | NestJS, React, Postgres | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_TCC) |
+| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo via Kinesis e Rekognition. | Lambda, Kinesis, S3 | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
+| **☁️ NovaEdge** | Entrega global de conteúdo reduzindo a latência em até 50%. | CloudFront, Step Functions | [Ver Código →](https://github.com/GabrielF0900/CloudFront-NewEdge) |
+| **🎟️ Ticket Manager** | Gerenciamento de chamados escalável com WebSockets e APIs robustas. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados) |
+| **🎓 FocoTCC** | Arquitetura containerizada com 100% de paridade entre ambientes. | NestJS, React, Postgres | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_TCC) |
 
 </div>
 
@@ -71,7 +71,7 @@ Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar pro
 
 ### 📫 Vamos construir algo resiliente?
 
-Se você busca um desenvolvedor com mentalidade de arquiteto para escalar seu produto com segurança e baixo custo, vamos conversar[cite: 1].
+Se você busca um desenvolvedor com mentalidade de arquiteto para escalar seu produto com segurança e baixo custo, vamos conversar.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabrielfalcaodev/" target="_blank">
