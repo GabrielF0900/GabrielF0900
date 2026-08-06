@@ -28,17 +28,48 @@ Desenvolvedor Backend focado em **Java 21 e Spring Boot**, construindo APIs REST
 
 ---
 
-### 🛠️ Core Stack Tecnológica
+### 🛠️ Stack Principal
 
-| Domínio | Tecnologias | Comprovado em |
-| :--- | :--- | :--- |
-| **Linguagem & Frameworks** | ![Java](https://img.shields.io/badge/Java-D10000?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-D10000?style=for-the-badge&logo=apachemaven&logoColor=white) | SafeWallet Core |
-| **Microsserviços & Containers** | ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Netflix Eureka](https://img.shields.io/badge/Netflix_Eureka-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-D10000?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) | Spring Cloud Microservices, K8s Lab |
-| **AWS — Compute, Rede & IaC** | ![EC2](https://img.shields.io/badge/EC2-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-D10000?style=for-the-badge&logo=amazon-ecs&logoColor=white) ![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) | AWS-Nexus, SafeWallet Core, High Availability Scaling Architecture |
-| **AWS — Serverless & Dados** | ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![Step Functions](https://img.shields.io/badge/Step_Functions-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-D10000?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![SQS/SNS](https://img.shields.io/badge/SQS_%2F_SNS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) | Serverless Order Orchestrator, Resilient Order Processor, Serverless Product Catalog |
-| **AWS — Segurança & Entrega** | ![Kinesis](https://img.shields.io/badge/Kinesis-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Rekognition](https://img.shields.io/badge/Rekognition-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![WAF/Shield](https://img.shields.io/badge/WAF_%2F_Shield-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) | CityShield, Nebula-Archive, CloudFront-NewEdge |
-| **Dados & Segurança de API** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-D10000?style=for-the-badge&logo=swagger&logoColor=white) | SafeWallet Core |
-| **DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-D10000?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white) | Neukox (CI/CD) |
+**Linguagem & Frameworks**
+![Java](https://img.shields.io/badge/Java-D10000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-D10000?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-D10000?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-D10000?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-D10000?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Microsserviços & Containers**
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-D10000?style=for-the-badge&logo=spring&logoColor=white)
+![Netflix Eureka](https://img.shields.io/badge/Netflix_Eureka-D10000?style=for-the-badge&logo=spring&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-D10000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white)
+
+**Cloud (AWS)**
+![EC2](https://img.shields.io/badge/EC2-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-D10000?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-D10000?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Dados & Segurança de API**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-D10000?style=for-the-badge&logo=swagger&logoColor=white)
+
+**DevOps**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-D10000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📂 Comprovado em
+
+| Área | Repositórios |
+| :--- | :--- |
+| **Java & Spring** | [SafeWallet Core](https://github.com/GabrielF0900/safewallet-core) · [Resilient Audit Batch](https://github.com/GabrielF0900/resilient-audit-batch) |
+| **Microsserviços & Kubernetes** | [Spring Cloud Microservices](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) · [K8s Lab](https://github.com/GabrielF0900/todo-list-k8s-lab) |
+| **AWS Serverless** | [CityShield](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) · [Serverless Order Orchestrator](https://github.com/GabrielF0900/AWS-serverless-order-orchestrator) |
+| **AWS IaC & Infraestrutura** | [AWS-Nexus](https://github.com/GabrielF0900/AWS-Nexus---IaC-Blueprint) · [High Availability Scaling Architecture](https://github.com/GabrielF0900/aws-high-availability-scaling-architecture) |
 
 ---
 
@@ -53,8 +84,6 @@ Desenvolvedor Backend focado em **Java 21 e Spring Boot**, construindo APIs REST
 | **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo em tempo real (~200M frames/mês) via Kinesis e Rekognition. | Lambda, Kinesis, Rekognition | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
 | **🌐 Spring Cloud Microservices** | Ecossistema de 3 microsserviços com service discovery via Netflix Eureka, sem IP hardcoded. | Spring Cloud, Netflix Eureka | [Ver Código →](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) |
 | **☸️ K8s Lab** | Microsserviço Spring Boot orquestrado em Kubernetes, com self-healing validado na prática. | Kubernetes, Docker | [Ver Código →](https://github.com/GabrielF0900/todo-list-k8s-lab) |
-| **☁️ AWS-Nexus** | IaC completo com CloudFormation: VPC segmentada, EC2, monitoramento via CloudWatch. | CloudFormation, EC2, VPC | [Ver Código →](https://github.com/GabrielF0900/AWS-Nexus---IaC-Blueprint) |
-| **📦 Serverless Order Orchestrator** | Orquestração de pedidos ponta a ponta com Step Functions, Lambda e DynamoDB. | Step Functions, Lambda, DynamoDB | [Ver Código →](https://github.com/GabrielF0900/AWS-serverless-order-orchestrator) |
 
 </div>
 
