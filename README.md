@@ -1,78 +1,64 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Cloud--Native%20Developer%20|%20Full--Stack-D10000?style=for-the-badge&logo=rocket" alt="Status" />
-</div>
 
-# Olá, eu sou o Gabriel Falcão. 🚀
+# Gabriel Falcão da Cruz
 
-### Cloud-Native Developer | AWS Certified Solutions Architect Associate | Full-Stack JS/TS
+### Desenvolvedor Backend Java | Spring Boot | AWS Solutions Architect Associate (SAA-C03)
 
-Desenvolvedor Full Stack e Arquiteto de Soluções AWS focado em transformar processos manuais de engenharia em fluxos digitais eficientes através de automações **Cloud-Native**. Utilizo o **AWS Well-Architected Framework** como bússola técnica para garantir escalabilidade, segurança e eficiência de custos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfalcaodev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.gabrielfalcaodacruz.tech/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:falcaocruz.tech@gmail.com)
 
----
-
-### 📈 Impacto & Métricas Reais
-
-- **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
-- **Automação e IaC**: Provisionamento de infraestrutura replicável via **AWS CloudFormation** e **CDK**, garantindo governança e ambientes resilientes.
-- **Eficiência Operacional**: Redução de custos através de arquiteturas **Serverless** e otimização de latência global via **CloudFront**.
-- **Integridade Analítica**: Utilizo meu **hiperfoco analítico (neurodiversidade)** para identificar vulnerabilidades de segurança e gargalos de performance.
-
-<div align="center">
-  <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
-  </a>
-  <a href="https://www.credly.com/badges/8567f1a6-90af-44cb-b9bb-3a8c377c8295/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLF Badge" />
-  </a>
 </div>
 
 ---
 
-### 🛠️ Core Stack Tecnológica (Red Architecture)
+Desenvolvedor backend com foco em Java 17/21 e Spring Boot, aplicando arquitetura
+cloud-native na AWS desde a primeira linha de código. Construo APIs RESTful com
+autenticação stateless (JWT), persistência relacional consistente (PostgreSQL,
+transações ACID) e infraestrutura como código, seguindo o AWS Well-Architected
+Framework como referência de decisão técnica.
 
-| Domínio | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CDK](https://img.shields.io/badge/AWS_CDK-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-D10000?style=for-the-badge&logo=amazons3&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) ![StepFunctions](https://img.shields.io/badge/Step_Functions-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-D10000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-D10000?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-D10000?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-D10000?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-D10000?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-D10000?style=for-the-badge&logo=prisma&logoColor=white) |
-| **Front-end** | ![React](https://img.shields.io/badge/React-D10000?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-D10000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-D10000?style=for-the-badge&logo=vite&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-D10000?style=for-the-badge&logo=jest&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white) |
-
----
-
-### 🚀 Projetos Estratégicos
+## Certificações
 
 <div align="center">
 
-| Projeto | Solução & Impacto | Stack Principal | Link |
-| :--- | :--- | :--- | :--- |
-| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo via Kinesis e Rekognition. | Lambda, Kinesis, S3 | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
-| **☁️ NovaEdge** | Entrega global de conteúdo reduzindo a latência em até 50%. | CloudFront, Step Functions | [Ver Código →](https://github.com/GabrielF0900/CloudFront-NewEdge) |
-| **🎟️ Ticket Manager** | Gerenciamento de chamados escalável com WebSockets e APIs robustas. | NestJS, Prisma, Docker | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_Chamados) |
-| **🎓 FocoTCC** | Arquitetura containerizada com 100% de paridade entre ambientes. | NestJS, React, Postgres | [Ver Código →](https://github.com/Neukox/Sistema_De_Gerenciamento_De_TCC) |
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/8567f1a6-90af-44cb-b9bb-3a8c377c8295/public_url)
 
 </div>
+
+## Stack Principal
+
+**Linguagem & Framework:** Java 17/21 · Spring Boot · Spring Security · Spring Data JPA · Spring Cloud · Maven
+
+**Cloud (AWS):** ECS Fargate · RDS · Lambda · CloudFormation · CloudFront · Step Functions · Kinesis · Rekognition · S3 · IAM
+
+**Dados & Infraestrutura:** PostgreSQL · Docker · Kubernetes · CI/CD (GitHub Actions)
+
+## Projetos em Destaque
+
+**[SafeWallet Core](https://github.com/GabrielF0900/safewallet-core)**
+Carteira digital cloud-native — Java 21, Spring Security, autenticação JWT stateless,
+deploy em ECS Fargate com RDS PostgreSQL Multi-AZ e distribuição via CloudFront.
+
+**[Resilient Audit Batch](https://github.com/GabrielF0900/resilient-audit-batch)**
+Pipeline de auditoria de alta performance — deduplicação de 1 milhão de transações
+em 0,309s, usando tabelas hash para busca O(1) e otimização de custo em ambiente serverless.
+
+**[Todo List — Spring Cloud Microservices](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices)**
+Ecossistema de 3 microsserviços com Netflix Eureka (service discovery) e Spring Cloud
+Config (configuração externalizada), com isolamento de falhas entre serviços.
+
+**[Todo List K8s Lab](https://github.com/GabrielF0900/todo-list-k8s-lab)**
+Microsserviço Spring Boot orquestrado em Kubernetes — hierarquia Pod → ReplicaSet →
+Deployment, com self-healing validado na prática.
+
+**[CityShield](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-)**
+Arquitetura serverless para análise de vídeo em tempo real (Kinesis + Rekognition),
+processando ~200M frames/mês com redução de ~80% de custo frente a infraestrutura on-premises.
 
 ---
 
-### 📫 Vamos construir algo resiliente?
-
-Se você busca um desenvolvedor com mentalidade de arquiteto para escalar seu produto com segurança e baixo custo, vamos conversar.
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabrielfalcaodev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-D10000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielcfonline0900@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.gabrielfalcaodacruz.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+<sub>Aberto a oportunidades como Desenvolvedor Backend Java Júnior — vamos conversar.</sub>
 </div>
