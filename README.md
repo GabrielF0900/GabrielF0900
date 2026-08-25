@@ -15,7 +15,7 @@
 ### 📈 Impacto & Métricas Reais
 
 - **Alta Performance**: Pipeline capaz de auditar e deduplicar **1 milhão de transações** em **0,309 segundos**, com otimização O(1) via tabelas hash, elevando a vazão para **3,2M op/s**.
-- **Escala Serverless**: **Arquitetura Serverless**: CityShield dimensionado para um cenário de **~200M frames/mês** (Kinesis + Rekognition), com modelagem de custos estimando **~80% de economia anual** frente ao cenário on-premises comparado no TCC.
+- **Arquitetura Serverless**: CityShield dimensionado para um cenário de **~200M frames/mês** (Kinesis + Rekognition), com modelagem de custos estimando **~80% de economia anual** frente ao cenário on-premises comparado no TCC.
 - **Liderança Técnica**: **+20% de produtividade** da equipe após adoção de Kanban e **-30%** no tempo de provisionamento de ambientes com CI/CD automatizado.
 - **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
 
