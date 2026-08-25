@@ -12,7 +12,7 @@
 
 ---
 
-### 📈 Impacto & Métricas Reais
+### 📈 Resultados & Métricas
 
 - **Alta Performance**: Pipeline capaz de auditar e deduplicar **1 milhão de transações** em **0,309 segundos**, alcançando aproximadamente **3,2M operações/s**, com uso de estruturas hash para buscas de complexidade média O(1).
 - **Arquitetura Serverless**: CityShield dimensionado para um cenário de **~200M frames/mês** (Kinesis + Rekognition), com modelagem de custos estimando **~80% de economia anual** frente ao cenário on-premises comparado no TCC.
