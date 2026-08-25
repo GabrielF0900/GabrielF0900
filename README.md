@@ -49,7 +49,7 @@
 | **Java & Spring** | [SafeWallet Core](https://github.com/GabrielF0900/safewallet-core) · [Resilient Audit Batch](https://github.com/GabrielF0900/resilient-audit-batch) |
 | **Microsserviços & Kubernetes** | [Spring Cloud Microservices](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) · [K8s Lab](https://github.com/GabrielF0900/todo-list-k8s-lab) |
 | **AWS Serverless** | [CityShield](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) · [Serverless Order Orchestrator](https://github.com/GabrielF0900/AWS-serverless-order-orchestrator) |
-| **AWS IaC & Infraestrutura** | [AWS-Nexus](https://github.com/GabrielF0900/AWS-Nexus---IaC-Blueprint) · [High Availability Scaling Architecture](https://github.com/GabrielF0900/aws-high-availability-scaling-architecture) |
+| **AWS IaC & Infraestrutura** | [AWS-Nexus](https://github.com/GabrielF0900/AWS-Nexus-IaC-Blueprint) · [High Availability Scaling Architecture](https://github.com/GabrielF0900/aws-high-availability-scaling-architecture) |
 
 ---
 
@@ -59,7 +59,7 @@
 
 | Projeto | Solução & Impacto | Stack Principal | Link |
 | :--- | :--- | :--- | :--- |
-| **🔐 SafeWallet Core** | Carteira digital cloud-native com autenticação JWT stateless e deploy em ECS Fargate + RDS Multi-AZ. | Java 21, Spring Security | [Ver Código →](https://github.com/GabrielF0900/safewallet-core) |
+| **🔐 SafeWallet Core** | Carteira digital cloud-native com autenticação JWT stateless e deploy em ECS Fargate + RDS Single-AZ. | Java 21, Spring Security | [Ver Código →](https://github.com/GabrielF0900/safewallet-core) |
 | **⚡ Resilient Audit Batch** | 1M transações deduplicadas em 0,309s via tabelas hash, elevando a vazão a 3,2M op/s. | Java, Collections Framework | [Ver Código →](https://github.com/GabrielF0900/resilient-audit-batch) |
 | **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo em tempo real (~200M frames/mês) via Kinesis e Rekognition. | Lambda, Kinesis, Rekognition | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
 | **🌐 Spring Cloud Microservices** | Ecossistema de 3 microsserviços com service discovery via Netflix Eureka, sem IP hardcoded. | Spring Cloud, Netflix Eureka | [Ver Código →](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) |
