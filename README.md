@@ -61,7 +61,7 @@
 | :--- | :--- | :--- | :--- |
 | **🔐 SafeWallet Core** | Carteira digital cloud-native com autenticação JWT stateless e deploy em ECS Fargate + RDS Single-AZ. | Java 21, Spring Security | [Ver Código →](https://github.com/GabrielF0900/safewallet-core) |
 | **⚡ Resilient Audit Batch** | 1M transações deduplicadas em 0,309s via tabelas hash, elevando a vazão a 3,2M op/s. | Java, Collections Framework | [Ver Código →](https://github.com/GabrielF0900/resilient-audit-batch) |
-| **🛡️ CityShield** | Segurança Smart City com ingestão de vídeo em tempo real (~200M frames/mês) via Kinesis e Rekognition. | Lambda, Kinesis, Rekognition | [Ver Código →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
+| **🛡️ CityShield** | Arquitetura serverless para Smart Cities dimensionada para ~200M frames/mês, com análise de custos AWS vs. on-premises indicando ~80% de economia anual. | Lambda, Kinesis, Rekognition | [Ver Projeto →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
 | **🌐 Spring Cloud Microservices** | Ecossistema de 3 microsserviços com service discovery via Netflix Eureka, sem IP hardcoded. | Spring Cloud, Netflix Eureka | [Ver Código →](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) |
 | **☸️ K8s Lab** | Microsserviço Spring Boot orquestrado em Kubernetes, com self-healing validado na prática. | Kubernetes, Docker | [Ver Código →](https://github.com/GabrielF0900/todo-list-k8s-lab) |
 
