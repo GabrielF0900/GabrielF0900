@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:090D14,18:0B1B36,38:152D57,72:D10000,100:8B0000&height=180&section=header&text=Gabriel%20Falc%C3%A3o%20da%20Cruz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot%20%7C%20AWS%20SAA-C03&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:D10000&height=180&section=header&text=Gabriel%20Falc%C3%A3o%20da%20Cruz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot%20%7C%20AWS%20SAA-C03&descAlignY=58&descSize=18)
 
 </div>
 
@@ -35,10 +35,10 @@
 | Domínio | Tecnologias |
 | :--- | :--- |
 | **Linguagem & Frameworks** | <img src="https://img.shields.io/badge/Java-D10000?style=for-the-badge&logo=openjdk&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Boot-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Security-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Maven-D10000?style=for-the-badge&logo=apachemaven&logoColor=white" height="24"/> |
-| **Microsserviços & Containers** | <img src="https://img.shields.io/badge/Spring_Cloud-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Netflix_Eureka-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Kubernetes-146EF5?style=for-the-badge&logo=kubernetes&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Docker-146EF5?style=for-the-badge&logo=docker&logoColor=white" height="24"/> |
+| **Microsserviços & Containers** | <img src="https://img.shields.io/badge/Spring_Cloud-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Netflix_Eureka-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Kubernetes-D10000?style=for-the-badge&logo=kubernetes&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Docker-D10000?style=for-the-badge&logo=docker&logoColor=white" height="24"/> |
 | **Cloud (AWS)** | <img src="https://img.shields.io/badge/EC2-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/ECS_Fargate-D10000?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/DynamoDB-D10000?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> |
-| **Dados & Segurança de API** | <img src="https://img.shields.io/badge/PostgreSQL-146EF5?style=for-the-badge&logo=postgresql&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-D10000?style=for-the-badge&logo=swagger&logoColor=white" height="24"/> |
-| **DevOps** | <img src="https://img.shields.io/badge/GitHub_Actions-146EF5?style=for-the-badge&logo=githubactions&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white" height="24"/> |
+| **Dados & Segurança de API** | <img src="https://img.shields.io/badge/PostgreSQL-D10000?style=for-the-badge&logo=postgresql&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-D10000?style=for-the-badge&logo=swagger&logoColor=white" height="24"/> |
+| **DevOps** | <img src="https://img.shields.io/badge/GitHub_Actions-D10000?style=for-the-badge&logo=githubactions&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white" height="24"/> |
 
 ---
 
@@ -81,7 +81,7 @@ Se você busca um desenvolvedor backend com mentalidade de arquiteto para escala
     <img src="https://img.shields.io/badge/Email-D10000?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Email" />
   </a>
   <a href="https://www.gabrielfalcaodacruz.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-146EF5?style=for-the-badge&logo=vercel&logoColor=white" height="26" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="26" alt="Portfolio" />
   </a>
 </div>
 
