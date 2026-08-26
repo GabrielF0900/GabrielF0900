@@ -1,13 +1,12 @@
-```md
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B2A5B,75:146EF5,100:D10000&height=180&section=header&text=Gabriel%20Falc%C3%A3o%20da%20Cruz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot%20%7C%20AWS%20SAA-C03&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:07111F,45:0B2A5B,75:146EF5,100\:D10000\&height=180\&section=header\&text=Gabriel%20Falc%C3%A3o%20da%20Cruz\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot%20%7C%20AWS%20SAA-C03\&descAlignY=58\&descSize=18)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80FF&center=true&vCenter=true&width=600&lines=Java+21+%2B+Spring+Boot+%2B+AWS;Arquitetura+Cloud-Native+desde+a+primeira+linha;1M+transa%C3%A7%C3%B5es+auditadas+em+0%2C309s)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=2F80FF\&center=true\&vCenter=true\&width=600\&lines=Java+21+%2B+Spring+Boot+%2B+AWS;Arquitetura+Cloud-Native+desde+a+primeira+linha;1M+transa%C3%A7%C3%B5es+auditadas+em+0%2C309s)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,10 +14,10 @@
 
 ### 📈 Resultados & Métricas
 
-- **Alta Performance**: Pipeline capaz de auditar e deduplicar **1 milhão de transações** em **0,309 segundos**, alcançando aproximadamente **3,2M operações/s**, com uso de estruturas hash para buscas de complexidade média O(1).
-- **Arquitetura Serverless**: CityShield dimensionado para um cenário de **~200M frames/mês** (Kinesis + Rekognition), com modelagem de custos estimando **~80% de economia anual** frente ao cenário on-premises comparado no TCC.
-- **Liderança Técnica**: **+20% de produtividade** da equipe após adoção de Kanban e **-30%** no tempo de provisionamento de ambientes com CI/CD automatizado.
-- **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
+* **Alta Performance**: Pipeline capaz de auditar e deduplicar **1 milhão de transações** em **0,309 segundos**, alcançando aproximadamente **3,2M operações/s**, com uso de estruturas hash para buscas de complexidade média O(1).
+* **Arquitetura Serverless**: CityShield dimensionado para um cenário de **~200M frames/mês** (Kinesis + Rekognition), com modelagem de custos estimando **~80% de economia anual** frente ao cenário on-premises comparado no TCC.
+* **Liderança Técnica**: **+20% de produtividade** da equipe após adoção de Kanban e **-30%** no tempo de provisionamento de ambientes com CI/CD automatizado.
+* **Agilidade Técnica**: Conquistei as certificações **CLF-C02** e **SAA-C03** em apenas **30 dias**, demonstrando alta capacidade de execução sob demanda.
 
 <div align="center">
   <a href="https://www.credly.com/badges/5b451a38-a517-4e50-bf57-edd91f7fd821/public_url" target="_blank">
@@ -33,24 +32,24 @@
 
 ### 🛠️ Stack Principal
 
-| Domínio | Tecnologias |
-| :--- | :--- |
-| **Linguagem & Frameworks** | <img src="https://img.shields.io/badge/Java-D10000?style=for-the-badge&logo=openjdk&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Boot-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Security-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Maven-D10000?style=for-the-badge&logo=apachemaven&logoColor=white" height="24"/> |
-| **Microsserviços & Containers** | <img src="https://img.shields.io/badge/Spring_Cloud-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Netflix_Eureka-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Kubernetes-146EF5?style=for-the-badge&logo=kubernetes&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Docker-146EF5?style=for-the-badge&logo=docker&logoColor=white" height="24"/> |
-| **Cloud (AWS)** | <img src="https://img.shields.io/badge/EC2-146EF5?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/ECS_Fargate-146EF5?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/DynamoDB-146EF5?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> |
-| **Dados & Segurança de API** | <img src="https://img.shields.io/badge/PostgreSQL-146EF5?style=for-the-badge&logo=postgresql&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-146EF5?style=for-the-badge&logo=swagger&logoColor=white" height="24"/> |
-| **DevOps** | <img src="https://img.shields.io/badge/GitHub_Actions-146EF5?style=for-the-badge&logo=githubactions&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white" height="24"/> |
+| Domínio                         | Tecnologias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Linguagem & Frameworks**      | <img src="https://img.shields.io/badge/Java-D10000?style=for-the-badge&logo=openjdk&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Boot-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Security-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Maven-D10000?style=for-the-badge&logo=apachemaven&logoColor=white" height="24"/>          |
+| **Microsserviços & Containers** | <img src="https://img.shields.io/badge/Spring_Cloud-146EF5?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Netflix_Eureka-D10000?style=for-the-badge&logo=spring&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Kubernetes-146EF5?style=for-the-badge&logo=kubernetes&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Docker-146EF5?style=for-the-badge&logo=docker&logoColor=white" height="24"/>                                                                                                                                  |
+| **Cloud (AWS)**                 | <img src="https://img.shields.io/badge/EC2-146EF5?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Lambda-D10000?style=for-the-badge&logo=awslambda&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/ECS_Fargate-146EF5?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/DynamoDB-146EF5?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/CloudFormation-D10000?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> |
+| **Dados & Segurança de API**    | <img src="https://img.shields.io/badge/PostgreSQL-146EF5?style=for-the-badge&logo=postgresql&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/JWT-D10000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-146EF5?style=for-the-badge&logo=swagger&logoColor=white" height="24"/>                                                                                                                                                                                                                                                    |
+| **DevOps**                      | <img src="https://img.shields.io/badge/GitHub_Actions-146EF5?style=for-the-badge&logo=githubactions&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Git-D10000?style=for-the-badge&logo=git&logoColor=white" height="24"/>                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ---
 
 ### 📂 Comprovado em
 
-| Área | Repositórios |
-| :--- | :--- |
-| **Java & Spring** | [SafeWallet Core](https://github.com/GabrielF0900/safewallet-core) · [Resilient Audit Batch](https://github.com/GabrielF0900/resilient-audit-batch) |
-| **Microsserviços & Kubernetes** | [Spring Cloud Microservices](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) · [K8s Lab](https://github.com/GabrielF0900/todo-list-k8s-lab) |
-| **AWS Serverless** | [CityShield](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) · [Serverless Order Orchestrator](https://github.com/GabrielF0900/AWS-serverless-order-orchestrator) |
-| **AWS IaC & Infraestrutura** | [AWS-Nexus](https://github.com/GabrielF0900/AWS-Nexus-IaC-Blueprint) · [High Availability Scaling Architecture](https://github.com/GabrielF0900/aws-high-availability-scaling-architecture) |
+| Área                            | Repositórios                                                                                                                                                                                |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Java & Spring**               | [SafeWallet Core](https://github.com/GabrielF0900/safewallet-core) · [Resilient Audit Batch](https://github.com/GabrielF0900/resilient-audit-batch)                                         |
+| **Microsserviços & Kubernetes** | [Spring Cloud Microservices](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) · [K8s Lab](https://github.com/GabrielF0900/todo-list-k8s-lab)                           |
+| **AWS Serverless**              | [CityShield](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) · [Serverless Order Orchestrator](https://github.com/GabrielF0900/AWS-serverless-order-orchestrator)          |
+| **AWS IaC & Infraestrutura**    | [AWS-Nexus](https://github.com/GabrielF0900/AWS-Nexus-IaC-Blueprint) · [High Availability Scaling Architecture](https://github.com/GabrielF0900/aws-high-availability-scaling-architecture) |
 
 ---
 
@@ -58,13 +57,13 @@
 
 <div align="center">
 
-| Projeto | Solução & Impacto | Stack Principal | Link |
-| :--- | :--- | :--- | :--- |
-| **🔐 SafeWallet Core** | Carteira digital cloud-native com autenticação JWT stateless e deploy em ECS Fargate + RDS Single-AZ. | Java 21, Spring Security | [Ver Código →](https://github.com/GabrielF0900/safewallet-core) |
-| **⚡ Resilient Audit Batch** | 1M transações deduplicadas em 0,309s via tabelas hash, elevando a vazão a 3,2M op/s. | Java, Collections Framework | [Ver Código →](https://github.com/GabrielF0900/resilient-audit-batch) |
-| **🛡️ CityShield** | Arquitetura serverless para Smart Cities dimensionada para ~200M frames/mês, com análise de custos AWS vs. on-premises indicando ~80% de economia anual. | Lambda, Kinesis, Rekognition | [Ver Projeto →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-) |
-| **🌐 Spring Cloud Microservices** | Ecossistema de 3 microsserviços com service discovery via Netflix Eureka, sem IP hardcoded. | Spring Cloud, Netflix Eureka | [Ver Código →](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) |
-| **☸️ K8s Lab** | Microsserviço Spring Boot orquestrado em Kubernetes, com self-healing validado na prática. | Kubernetes, Docker | [Ver Código →](https://github.com/GabrielF0900/todo-list-k8s-lab) |
+| Projeto                           | Solução & Impacto                                                                                                                                        | Stack Principal              | Link                                                                                 |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- | :----------------------------------------------------------------------------------- |
+| **🔐 SafeWallet Core**            | Carteira digital cloud-native com autenticação JWT stateless e deploy em ECS Fargate + RDS Single-AZ.                                                    | Java 21, Spring Security     | [Ver Código →](https://github.com/GabrielF0900/safewallet-core)                      |
+| **⚡ Resilient Audit Batch**       | 1M transações deduplicadas em 0,309s via tabelas hash, elevando a vazão a 3,2M op/s.                                                                     | Java, Collections Framework  | [Ver Código →](https://github.com/GabrielF0900/resilient-audit-batch)                |
+| **🛡️ CityShield**                | Arquitetura serverless para Smart Cities dimensionada para ~200M frames/mês, com análise de custos AWS vs. on-premises indicando ~80% de economia anual. | Lambda, Kinesis, Rekognition | [Ver Projeto →](https://github.com/GabrielF0900/CityShield-TCC-Escola-da-Nuvem-)     |
+| **🌐 Spring Cloud Microservices** | Ecossistema de 3 microsserviços com service discovery via Netflix Eureka, sem IP hardcoded.                                                              | Spring Cloud, Netflix Eureka | [Ver Código →](https://github.com/GabrielF0900/todo-list-spring-cloud-microservices) |
+| **☸️ K8s Lab**                    | Microsserviço Spring Boot orquestrado em Kubernetes, com self-healing validado na prática.                                                               | Kubernetes, Docker           | [Ver Código →](https://github.com/GabrielF0900/todo-list-k8s-lab)                    |
 
 </div>
 
@@ -92,4 +91,3 @@ Se você busca um desenvolvedor backend com mentalidade de arquiteto para escala
     <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-```
