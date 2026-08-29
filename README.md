@@ -1,15 +1,9 @@
 <div align="center">
-
-<img src="./assets/github-banner.png"
-     width="100%"
-     alt="Gabriel Falcão — Backend Developer | Java • Cloud • AWS" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=1200&duration=3200&color=B99152&center=true&vCenter=true&width=720&lines=Backend+Developer+%7C+Java+%E2%80%A2+Cloud+%E2%80%A2+AWS;Construindo+sistemas+confi%C3%A1veis+e+escal%C3%A1veis;Engenharia+aplicada+em+c%C3%B3digo+e+arquitetura)](https://git.io/typing-svg)
-
+  <img
+    src="./assets/github-banner-animated.svg"
+    width="100%"
+    alt="Gabriel Falcão — Backend Developer | Java • Cloud • AWS"
+  />
 </div>
 
 ---

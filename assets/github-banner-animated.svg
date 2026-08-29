@@ -1,0 +1,125 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1400"
+  height="350"
+  viewBox="0 0 1400 350"
+  role="img"
+  aria-label="Gabriel Falcão — Backend Developer | Java • Cloud • AWS"
+>
+  <defs>
+    <!-- Suave brilho dourado -->
+    <linearGradient id="goldSweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B99152" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#D7B36D" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#F0D39A" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#D7B36D" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#B99152" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Névoa sutil -->
+    <radialGradient id="mist" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glow dourado -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+
+    <!-- Máscara leve para brilho -->
+    <mask id="fadeMask">
+      <rect width="1400" height="350" fill="white"/>
+      <rect x="0" y="0" width="1400" height="350" fill="url(#goldSweep)"/>
+    </mask>
+  </defs>
+
+  <!--
+    IMPORTANTE:
+    Coloque este SVG e o PNG na mesma pasta:
+      assets/github-banner-animated.svg
+      assets/github-banner.png
+  -->
+
+  <!-- Banner original, preservado -->
+  <image
+    href="github-banner.png"
+    xlink:href="github-banner.png"
+    x="0"
+    y="0"
+    width="1400"
+    height="350"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
+  <!-- Névoa animada bem discreta -->
+  <ellipse
+    cx="860"
+    cy="165"
+    rx="290"
+    ry="120"
+    fill="url(#mist)"
+    opacity="0.18"
+  >
+    <animate
+      attributeName="cx"
+      values="820;900;820"
+      dur="14s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="opacity"
+      values="0.10;0.22;0.10"
+      dur="10s"
+      repeatCount="indefinite"
+    />
+  </ellipse>
+
+  <!-- Faixa de luz passando suavemente -->
+  <rect
+    x="-300"
+    y="0"
+    width="220"
+    height="350"
+    fill="url(#goldSweep)"
+    opacity="0.22"
+    transform="skewX(-10)"
+  >
+    <animate
+      attributeName="x"
+      values="-300;1650"
+      dur="11s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Pequenos pulsos dourados -->
+  <g fill="#D3A85C">
+    <circle cx="57" cy="53" r="2.1" opacity="0.45">
+      <animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="79" cy="53" r="2.1" opacity="0.45">
+      <animate attributeName="opacity" values="0.85;0.25;0.85" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1320" cy="52" r="2.1" opacity="0.45">
+      <animate attributeName="opacity" values="0.30;0.90;0.30" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1340" cy="52" r="2.1" opacity="0.45">
+      <animate attributeName="opacity" values="0.90;0.30;0.90" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Glow suave na região central inferior -->
+  <circle
+    cx="670"
+    cy="250"
+    r="5"
+    fill="#E0B86A"
+    opacity="0.38"
+    filter="url(#softGlow)"
+  >
+    <animate attributeName="r" values="4;7;4" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.22;0.52;0.22" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
