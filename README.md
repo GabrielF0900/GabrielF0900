@@ -1,11 +1,10 @@
 <div align="center">
   <img
-    src="./assets/github-banner-animated.svg"
+    src="./assets/github-banner-animated.gif"
     width="100%"
     alt="Gabriel Falcão — Backend Developer | Java • Cloud • AWS"
   />
 </div>
-
 ---
 
 ## Resultados & Métricas
